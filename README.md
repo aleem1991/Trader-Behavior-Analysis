@@ -23,3 +23,4 @@ This project was completed as part of a data science assignment for a Junior Dat
 1.  Clone this repository.
 2.  Ensure you have Python installed with the following libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`.
 3.  Open and run the `Primetrade (1).ipynb` notebook in a Jupyter environment. The notebook is self-contained and will load the included CSV files.
+4.  NOTE: Because of large size of historical_data.csv i had to compress so before running the code do extract it and then run the code.
